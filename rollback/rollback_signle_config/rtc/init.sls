@@ -1,0 +1,12 @@
+include:
+  - dev.update.update_signle_config.rtc.checkserver
+  - dev.update.update_signle_config.rtc.gateway
+  - dev.update.update_signle_config.rtc.grabserver
+  - dev.update.update_signle_config.rtc.publishr
+  - dev.update.update_signle_config.rtc.redirect
+  - dev.update.update_signle_config.rtc.rgwserver
+  - dev.update.update_signle_config.rtc.rgwserver1
+  - dev.update.update_signle_config.rtc.rtmppublish
+  - dev.update.update_signle_config.rtc.watchr
+  - dev.update.update_signle_config.rtc.webrtcpush
+  - dev.update.update_signle_config.rtc.webrtcplayer

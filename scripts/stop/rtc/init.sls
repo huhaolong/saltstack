@@ -1,0 +1,12 @@
+include:
+  - dev.scripts.stop.rtc.checkserver
+  - dev.scripts.stop.rtc.gateway
+  - dev.scripts.stop.rtc.publishr
+  - dev.scripts.stop.rtc.grabserver
+  - dev.scripts.stop.rtc.redirect
+  - dev.scripts.stop.rtc.rgwserver
+  - dev.scripts.stop.rtc.rgwserver1
+  - dev.scripts.stop.rtc.rtmppublish
+  - dev.scripts.stop.rtc.watchr
+  - dev.scripts.stop.rtc.webrtcpublish
+  - dev.scripts.stop.rtc.webrtcplay

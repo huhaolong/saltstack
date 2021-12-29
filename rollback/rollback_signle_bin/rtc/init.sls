@@ -1,0 +1,12 @@
+include:
+  - dev.rollback.rollback_signle_bin.rtc.checkserver
+  - dev.rollback.rollback_signle_bin.rtc.gateway
+  - dev.rollback.rollback_signle_bin.rtc.grabserver
+  - dev.rollback.rollback_signle_bin.rtc.publishr
+  - dev.rollback.rollback_signle_bin.rtc.redirect
+  - dev.rollback.rollback_signle_bin.rtc.rgwserver
+  - dev.rollback.rollback_signle_bin.rtc.rgwserver1
+  - dev.rollback.rollback_signle_bin.rtc.rtmppublish
+  - dev.rollback.rollback_signle_bin.rtc.watchr
+  - dev.rollback.rollback_signle_bin.rtc.webrtcpush
+  - dev.rollback.rollback_signle_bin.rtc.webrtcplayer
