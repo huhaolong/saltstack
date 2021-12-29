@@ -1,0 +1,12 @@
+include:
+  - dev.init.selinux
+  - dev.init.firewalld
+  - dev.init.dns
+  - dev.init.yum
+  - dev.init.limits
+  - dev.init.sysctl
+  - dev.init.tools
+  - dev.init.chrony
+  - dev.init.sshd
+  - dev.init.node_exporter
+  - dev.init.process_exporter

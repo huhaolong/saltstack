@@ -1,0 +1,5 @@
+#tls_server_config:
+#  cert_file: /usr/local/exporter/node_exporter/node_exporter.crt
+#  key_file: /usr/local/exporter/node_exporter/node_exporter.key
+basic_auth_users:
+  aocyun: $2y$12$xT.PIreO/kJn0f33XtiGpumgDP.ZXJuYEkn0vBbFIpN1bxdPMkf62 
