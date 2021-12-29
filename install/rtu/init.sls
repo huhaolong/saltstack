@@ -1,0 +1,17 @@
+include:
+  - dev.install.rtu.certs
+  - dev.install.rtu.checkserver
+  - dev.install.rtu.grabserver
+  - dev.install.rtu.publishr
+  - dev.install.rtu.gateway
+  - dev.install.rtu.rtmppublish
+  - dev.install.rtu.rtu
+  - dev.install.rtu.detection
+  - dev.install.rtu.duhttp
+  - dev.install.rtu.redirect
+  - dev.install.rtu.rgwserver
+  - dev.install.rtu.licence
+  - dev.install.rtu.openresty
+  - dev.install.rtu.lua
+  - dev.install.rtu.quota
+  - dev.install.rtu.directory

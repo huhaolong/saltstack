@@ -1,0 +1,23 @@
+include:
+  - dev.install.publishwatch.certs
+  - dev.install.publishwatch.checkserver
+  - dev.install.publishwatch.gateway
+  - dev.install.publishwatch.grabserver
+  - dev.install.publishwatch.rgwserver
+  - dev.install.publishwatch.rgwserver1
+  - dev.install.publishwatch.webrtcpush
+  - dev.install.publishwatch.webrtcplayer
+  - dev.install.publishwatch.redirect
+  - dev.install.publishwatch.detection
+  - dev.install.publishwatch.publishr
+  - dev.install.publishwatch.localr
+  - dev.install.publishwatch.watchr
+  - dev.install.publishwatch.duhttp
+  - dev.install.publishwatch.rtmpproxy
+  - dev.install.publishwatch.lua
+  - dev.install.publishwatch.quota
+  - dev.install.publishwatch.scripts
+  - dev.install.publishwatch.licence
+  - dev.install.publishwatch.openresty
+  - dev.install.publishwatch.php
+  - dev.install.publishwatch.directory

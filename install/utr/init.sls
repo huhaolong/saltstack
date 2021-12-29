@@ -1,0 +1,18 @@
+include:
+  - dev.install.utr.certs
+  - dev.install.utr.checkserver
+  - dev.install.utr.grabserver
+  - dev.install.utr.localr
+  - dev.install.utr.rtmpplay
+  - dev.install.utr.rtmp_watchr
+  - dev.install.utr.utr
+  - dev.install.utr.detection
+  - dev.install.utr.redirect
+  - dev.install.utr.duhttp
+  - dev.install.utr.rgwserver
+  - dev.install.utr.openresty
+  - dev.install.utr.cert
+  - dev.install.utr.lua
+  - dev.install.utr.quota
+  - dev.install.utr.licence
+  - dev.install.utr.directory
